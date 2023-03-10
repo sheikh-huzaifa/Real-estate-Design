@@ -1,0 +1,57 @@
+.nav_button{
+    width: 6vw;
+    padding-top: 0.3vw;
+    padding-bottom: 0.3vw;
+    border-radius: 13px;
+    border-color: #2289FF;
+}
+
+.card_btn{
+    background-color: white;
+   border-color: #2289FF;
+   color: #2289FF;
+   width: 7vw;
+   border-radius: 13px;
+   font-size: 1vw;
+   padding: 0.3vw;
+    
+}
+
+.card_btn:hover{
+    background-color: #2289FF;
+    color: white;
+}
+
+.btn_white{
+    background-color: white;
+   border-color: #2289FF;
+   color: #2289FF;
+   width: 6vw;
+    padding-top: 0.3vw;
+    padding-bottom: 0.3vw;
+    border-radius: 13px;
+    border-color: #2289FF;
+}
+
+
+.btn_white:hover{
+    background-color: #2289FF;
+    color: white;
+}
+
+.btn_blue{
+    background-color: #2289FF;
+   border-color: #2289FF;
+   color: white;
+   width: 6vw;
+    padding-top: 0.3vw;
+    padding-bottom: 0.3vw;
+    border-radius: 13px;
+    border-color: #2289FF;
+}
+
+.btn_blue:hover{
+    background-color: white;
+    color: #2289FF;
+}
+
